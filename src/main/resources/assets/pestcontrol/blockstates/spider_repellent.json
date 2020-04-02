@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "pestcontrol:block/spider_torch" }
+  }
+}

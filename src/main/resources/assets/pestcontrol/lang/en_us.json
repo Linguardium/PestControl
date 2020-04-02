@@ -1,0 +1,10 @@
+{
+  "block.pestcontrol.spider_repellent": "Spider Repellent Torch",
+  "block.pestcontrol.creeper_repellent": "Creeper Repellent Torch",
+  "block.pestcontrol.undead_repellent": "Undead Repellent Torch",
+  "block.pestcontrol.monster_repellent": "Monster Repellent Torch",
+  "item.pestcontrol.spider_leg": "Spider Leg",
+  "item.pestcontrol.creeper_skin": "Creeper Skin",
+  "lore.pestcontrol.creeper_skin": "It looks crispy, I wonder how it tastes..."
+
+}

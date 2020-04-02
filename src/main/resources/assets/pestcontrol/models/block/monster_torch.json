@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "pestcontrol:block/spider_torch",
+		"2": "pestcontrol:block/skeleton_torch",
+		"3": "pestcontrol:block/creeper_torch",
+		"particle": "pestcontrol:block/skeleton_torch"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 10, 9],
+			"faces": {
+				"north": {"uv": [2.4995, 6.9995, 3.4985, 12.497], "texture": "#3"},
+				"east": {"uv": [12, 9.5, 12.999, 14.9975], "texture": "#3"},
+				"south": {"uv": [2.4995, 6.9995, 3.4985, 12.497], "texture": "#3"},
+				"west": {"uv": [12, 9.5, 12.999, 14.9975], "texture": "#3"},
+				"up": {"uv": [4, 4.5, 7.997, 7.997], "rotation": 90, "texture": "#3"},
+				"down": {"uv": [4, 4.5, 7.997, 7.997], "rotation": 90, "texture": "#3"}
+			}
+		},
+		{
+			"from": [6.9, 5, 6.9],
+			"to": [9.1, 9, 9.1],
+			"faces": {
+				"north": {"uv": [2.5, 1.5, 4.7, 5.5], "texture": "#2"},
+				"east": {"uv": [3, 1.5, 5.199, 5.5], "texture": "#2"},
+				"south": {"uv": [0.5, 1, 2.7, 4.999], "texture": "#2"},
+				"west": {"uv": [1, 0, 3.2, 4], "texture": "#2"},
+				"up": {"uv": [0, 0, 2.2, 2.2], "texture": "#2"},
+				"down": {"uv": [0, 0, 2.2, 2.2], "texture": "#2"}
+			}
+		},
+		{
+			"from": [7, 10, 7],
+			"to": [9, 12, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#1"}
+			}
+		}
+	]
+}

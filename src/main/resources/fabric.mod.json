@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "pestcontrol",
+  "version": "${version}",
+  "name": "PestControl",
+  "description": "A collection of items to keep pests out",
+  "authors": [
+    "Linguardium"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/pestcontrol/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "mod.linguardium.pestcontrol.PestControl"
+    ],
+    "client": [
+      "mod.linguardium.pestcontrol.PestControlClient"
+    ],
+    "server": []
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*",
+    "libcd": ">=2.3.0"
+  }
+}
